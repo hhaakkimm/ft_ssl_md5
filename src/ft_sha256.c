@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_sha256.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aabdrakh <aabdrakh@student.42.us.org>      +#+  +:+       +#+        */
+/*   By: aabdrakh <aabdrakh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/09/22 16:04:29 by aabdrakh          #+#    #+#             */
-/*   Updated: 2019/03/24 22:45:06 by aabdrakh         ###   ########.fr       */
+/*   Updated: 2019/06/19 22:15:26 by aabdrakh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/ft_ssl.h"
+#include "../include/ft_ssl.h"
 
 void		ft_sha256(char *str, t_data *m)
 {

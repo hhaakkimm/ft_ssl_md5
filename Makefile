@@ -6,19 +6,19 @@
 #    By: aabdrakh <aabdrakh@student.42.us.org>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/08/22 12:14:43 by aabdrakh          #+#    #+#              #
-#    Updated: 2019/03/24 22:33:51 by aabdrakh         ###   ########.fr        #
+#    Updated: 2019/06/19 22:08:50 by aabdrakh         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME	= ft_ssl
-SRC	= ft_sha256.c\
-					ft_md5.c\
-					ft_message.c\
-					ft_help.c\
-					ft_main.c\
-					ft_cases.c\
-					ft_util.c\
-					ft_util2.c
+SRC	= src/ft_sha256.c\
+					src/ft_md5.c\
+					src/ft_message.c\
+					src/ft_help.c\
+					src/ft_main.c\
+					src/ft_cases.c\
+					src/ft_util.c\
+					src/ft_util2.c
 
 
 

@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_util2.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aabdrakh <aabdrakh@student.42.us.org>      +#+  +:+       +#+        */
+/*   By: aabdrakh <aabdrakh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/03/24 19:22:29 by aabdrakh          #+#    #+#             */
-/*   Updated: 2019/03/24 21:45:46 by aabdrakh         ###   ########.fr       */
+/*   Updated: 2019/06/19 22:15:26 by aabdrakh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/ft_ssl.h"
+#include "../include/ft_ssl.h"
 
 uint32_t		ft_binpow(uint32_t a, int n)
 {

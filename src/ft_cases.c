@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_cases.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aabdrakh <aabdrakh@student.42.us.org>      +#+  +:+       +#+        */
+/*   By: aabdrakh <aabdrakh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/03/23 14:02:46 by aabdrakh          #+#    #+#             */
-/*   Updated: 2019/03/24 22:46:15 by aabdrakh         ###   ########.fr       */
+/*   Updated: 2019/06/19 22:15:26 by aabdrakh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/ft_ssl.h"
+#include "../include/ft_ssl.h"
 
 t_dispatch	g_comand[] = {
 	{0, &ft_md5},

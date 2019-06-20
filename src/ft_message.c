@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/ft_ssl.h"
+#include "../include/ft_ssl.h"
 
 void		ft_data_sha256(char *str, t_data *m)
 {
