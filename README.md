@@ -15,6 +15,7 @@ FT_SSL_MD5 is a 42 Project that mimics libc ls function
 1) sha224
 
 ## Sources
+* http://cs.indstate.edu/~fsagar/doc/paper.pdf
 * https://en.wikipedia.org/wiki/SHA-2
 * https://en.wikipedia.org/wiki/MD5
 * https://csrc.nist.gov/csrc/media/publications/fips/180/4/final/documents/fips180-4-draft-aug2014.pdf
