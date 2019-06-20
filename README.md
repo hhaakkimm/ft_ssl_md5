@@ -22,8 +22,8 @@ FT_SSL_MD5 is a 42 Project that mimics libc ls function
 ## Installation
 ```
 $> make
-$> ./ft_ssl_md5 {hash_function} {flag} {file}
+$> ./ft_ssl {hash_function} {flag} {file}
 $> works with stdin too:
-$> 1)./ft_ssl_md5 {hash_function} 
+$> 1)./ft_ssl {hash_function} 
 $> 2) Hit Enter, enter text, ctrl + d to output
 ```
